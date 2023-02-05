@@ -1,4 +1,4 @@
-#+TITLE:       OJ problems solves in C++
+#+TITLE:       OJ problems solved in C++
 #+AUTHOR:      Likhon Barai
 #+EMAIL:        likhonhere007@gmail.com
 #+DATE:        [2023-Feb-05 Sun]
