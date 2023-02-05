@@ -1,0 +1,24 @@
+#+TITLE:       OJ problems solves in C++
+#+AUTHOR:      Likhon Barai
+#+EMAIL:        likhonhere007@gmail.com
+#+DATE:        [2023-Feb-05 Sun]
+#+TAGS:        competitive-programming c++ code programming
+
+:PROPERTIES:
+#+OPTIONS:
+:END:
+
+
+
+
++ URI Problem Statements
++ CodeChef Problem Statements
++ Codeforces Problem Statements
++ HackerRank Problem Statements
++ HackerEarth Problem Statements
+
+Each file includes a distinct problem statement and any necessary remedies. My online judge solutions will be added to this repository regularly.
+
+#+BEGIN_CENTER
+© Likhon Barai
+#+END_CENTER
